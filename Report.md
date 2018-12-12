@@ -1,4 +1,4 @@
-# Project 3: Tennis: Report
+# Project 3: Collaboration and Competition: Report
 
 ### 1. Introduction
 
